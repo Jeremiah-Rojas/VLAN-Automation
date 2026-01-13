@@ -52,5 +52,5 @@ This is the script running and the values entered in:
 </br>This image shows the configurations that were performed by the script:
 <br><img width="550" height="328" alt="image" src="https://github.com/user-attachments/assets/a4e0af81-a053-4bef-8efd-676c99b79c3b" />
 
-
-
+</br>
+These configurations ensure that the two computers on the default VLAN (vlan1-2 and vlan1-3) cannot communicate with the computers on VLAN 2 (vlan2-2 and vlan2-3).
