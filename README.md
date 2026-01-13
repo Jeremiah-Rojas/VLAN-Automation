@@ -47,8 +47,8 @@ net_connect.disconnect()
 ```
 ### Configurations in Action
 This is the script running and the values entered in:
-</br><img width="550" height="328" alt="image" src="https://github.com/user-attachments/assets/007586c4-3ba0-42fa-a957-fea4d10cb07f" />
-This image shows the configurations that were performed by the script:
+</br><img width="440" height="262" alt="image" src="https://github.com/user-attachments/assets/007586c4-3ba0-42fa-a957-fea4d10cb07f" />
+</br>This image shows the configurations that were performed by the script:
 <br><img width="550" height="328" alt="image" src="https://github.com/user-attachments/assets/a4e0af81-a053-4bef-8efd-676c99b79c3b" />
 
 
