@@ -45,6 +45,7 @@ net_connect.send_config_set(interface_commands)
 print("Configuration Done.")
 net_connect.disconnect()
 ```
+_This IP address "192.168.x.x" is the IP of the switch, in this case a Cisco switch; this is where the configurations are performed._
 ### Configurations in Action
 This is the script running and the values entered in:
 </br><img width="440" height="262" alt="image" src="https://github.com/user-attachments/assets/007586c4-3ba0-42fa-a957-fea4d10cb07f" />
