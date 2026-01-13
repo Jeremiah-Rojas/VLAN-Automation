@@ -45,5 +45,12 @@ net_connect.send_config_set(interface_commands)
 
 print("Configuration Done.")
 net_connect.disconnect()
-
 ```
+### Configurations in Action
+This is the script running and the values entered in:
+<img width="593" height="392" alt="image" src="https://github.com/user-attachments/assets/007586c4-3ba0-42fa-a957-fea4d10cb07f" />
+This image shows the configurations that were performed by the script:
+<img width="824" height="491" alt="image" src="https://github.com/user-attachments/assets/a4e0af81-a053-4bef-8efd-676c99b79c3b" />
+
+
+
