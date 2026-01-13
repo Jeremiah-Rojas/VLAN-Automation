@@ -1,4 +1,6 @@
 # VLAN-Automation
+## Network Topology
+<img width="824" height="491" alt="image" src="https://github.com/user-attachments/assets/d4792172-149c-460e-86ea-f2330db68d3f" />
 
 
 The python code below is the script that automates the creation of a VLAN according to the name you give it, number, and interfaces assigned to it:
