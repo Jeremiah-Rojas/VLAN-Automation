@@ -3,10 +3,12 @@
 
 ## Configurations
 
-The configurations are extremely similar to the ones shown [here](https://github.com/Jeremiah-Rojas/basic-network/blob/main/README.md).
+The configurations are extremely similar to the ones shown [here](https://github.com/Jeremiah-Rojas/basic-network/blob/main/README.md).</br>
+Just note that the IP addresses on each vlan must be on the same subnet.
 
+## Python Script
 
-The python code below is the script that automates the creation of a VLAN according to the name you give it, number, and interfaces assigned to it:
+The python code below is the script that automates the creation of a VLAN according to the name you give it, number, and interfaces assigned to it (you must adjust the IP and/or username/password in the code):
 ```
 from netmiko import ConnectHandler
 
