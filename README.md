@@ -1,6 +1,12 @@
 # Network Topology
 <img width="769" height="459" alt="image" src="https://github.com/user-attachments/assets/d4792172-149c-460e-86ea-f2330db68d3f" />
 
+### Devices Used:
+- Cisco IOSv 15.7 router
+- Cisco IOSvL2 15.2.1 switch
+- GNS3 Software
+- Ubuntu Container (running on VMware machine)
+
 ## Configurations
 
 The configurations are extremely similar to the ones shown [here](https://github.com/Jeremiah-Rojas/basic-network/blob/main/README.md).</br>
