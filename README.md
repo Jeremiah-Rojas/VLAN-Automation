@@ -1,5 +1,6 @@
 # Network Topology
 <img width="769" height="459" alt="image" src="https://github.com/user-attachments/assets/d4792172-149c-460e-86ea-f2330db68d3f" />
+The following lab shows how a python script can automate the creation of VLANs keeping the traffic isolated from each other.
 
 ### Devices Used:
 - Cisco IOSv 15.7 router
